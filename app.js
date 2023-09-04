@@ -16,6 +16,7 @@ app.use(
       "http://localhost:3000",
       "https://authenticator-frontend.vercel.app",
       "https://authenticator-frontend-git-fork-14r14-main-cal-commit-new.vercel.app",
+      "https://cal-commit-auth-frontend.vercel.app/"
     ],
   })
 );
